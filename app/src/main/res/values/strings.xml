@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notifier</string>
+
+    <string name="remote_hint">Remote IP Address</string>
+    <string name="connect">Connect</string>
+    <string name="empty"></string>
+    <string name="remote">Remote:</string>
+    <string name="ping">Ping</string>
+    <string name="action_settings">Settings</string>
+</resources>
